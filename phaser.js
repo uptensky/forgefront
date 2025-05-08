@@ -1,0 +1,1 @@
+// Nahraď tento soubor reálným Phaser enginem: https://cdn.jsdelivr.net/npm/phaser@3/dist/phaser.min.js
